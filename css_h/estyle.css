@@ -1056,16 +1056,16 @@ header.sticky{
     }
 
     section{
-        padding: 60px 1%;
+        padding: 50px 5%;
         transition: .3s;
     }
 
     header{
-        padding: 16px 1%;
+        padding: 16px 5%;
         transition: .3s;
     }
     header.sticky{
-        padding: 10px 1%;
+        padding: 10px 5%;
         transition: .3s;
     }
 
