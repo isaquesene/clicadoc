@@ -1034,7 +1034,6 @@ header.sticky{
         background: #0ABAB5;
         text-align: right;
         transition: all .40s;
-        padding: 70px 1%;
     }
     .navlist li a{
         display: block;
