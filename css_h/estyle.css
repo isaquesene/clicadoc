@@ -1060,15 +1060,6 @@ header.sticky{
         transition: .3s;
     }
 
-    header{
-        padding: 16px 5%;
-        transition: .3s;
-    }
-    header.sticky{
-        padding: 10px 5%;
-        transition: .3s;
-    }
-
     
 }
 
