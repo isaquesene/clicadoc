@@ -1017,7 +1017,7 @@ header.sticky{
 }
 
 
-@media (max-width: 960px){
+@media (max-width: 970px){
     #menu-icon{
         display: inline-block;
         gap: 20px;
@@ -1056,7 +1056,7 @@ header.sticky{
     }
 
     section{
-        padding: 50px 0%;
+        padding: 40px 0%;
         transition: .3s;
     }
 
