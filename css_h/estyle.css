@@ -1039,6 +1039,7 @@ header.sticky{
         display: block;
         padding: 1rem;
         margin: 1.5rem;
+        font-size: 0.5rem;
         border-right: 2px solid var(--bg-color);
         color: var(--bg-color);
     }
