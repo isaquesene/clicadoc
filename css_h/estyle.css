@@ -1055,10 +1055,12 @@ header.sticky{
         top: 100%;
     }
 
-    .top-btn::before{
-        font-size: 1rem;
-        content: "ATENDIMENTO";
+    section{
+        padding: 70px 3%;
+        transition: .3s;
     }
+
+    
 }
 
 @media (max-width: 400px) {
