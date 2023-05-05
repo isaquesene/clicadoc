@@ -114,7 +114,7 @@ a{
 }
 
 .fale::before{
-    content: "Fale conosco!";
+    content: "Quero ser atendido agora";
     color: #FFFFFF;
 }
 
@@ -146,7 +146,7 @@ a{
 }
 
 .top-btn::before{
-    content: 'SAIBA MAIS';
+    content: 'Quero ser atendido agora';
 }
 
 /*----FIM HEADER-----*/
@@ -1067,7 +1067,7 @@ header.sticky{
 @media (max-width: 800px){
     .top-btn::before{
         font-size: 1rem;
-        /*content: "ATENDIMENTO";*/
+        content: "ATENDIMENTO";
     }
     .btn-receita .btn{
         align-items: center;
