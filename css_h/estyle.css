@@ -1065,8 +1065,8 @@ header.sticky{
     }
 
     section{
-        padding: 70px 1%;
-        font-size: 0.5rem;
+        padding: 70px -2%;
+        font-size: 0.2rem;
         transition: .3s;
     }
 
