@@ -1054,6 +1054,11 @@ header.sticky{
     .navlist.active{
         top: 100%;
     }
+
+    .top-btn::before{
+        font-size: 1rem;
+        content: "ATENDIMENTO";
+    }
 }
 
 @media (max-width: 400px) {
