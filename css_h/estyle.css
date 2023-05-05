@@ -1056,11 +1056,11 @@ header.sticky{
     }
 
     header{
-        padding: 16px 3%;
+        padding: 16px 1%;
         transition: .3s;
     }
     header.sticky{
-        padding: 10px 3%;
+        padding: 10px 1%;
         transition: .3s;
     }
 
