@@ -1017,10 +1017,10 @@ header.sticky{
 }
 
 
-@media screen and (max-width: 970px){
+@media (max-width: 970px){
     #menu-icon{
         display: inline-block;
-        gap: 20px;
+        gap: 30px;
     }
     .home{
         min-height: 80vh;
@@ -1037,7 +1037,7 @@ header.sticky{
     }
     .navlist li a{
         display: block;
-        padding: 1rem;
+        padding: 1.2rem;
         margin: 1.5rem;
         border-right: 2px solid var(--bg-color);
         color: var(--bg-color);
@@ -1054,30 +1054,6 @@ header.sticky{
     .navlist.active{
         top: 100%;
     }
-
-    header{
-        padding: 16px 1%;
-        transition: .3s;
-    }
-    header.sticky{
-        padding: 10px 1%;
-        transition: .3s;
-    }
-
-    section{
-        padding: 70px -2%;
-        font-size: 0.2rem;
-        transition: .3s;
-    }
-
-    
-}
-
-@media (max-width: 400px) {
-    .fale{
-        font-size: 12px;
-    }
-
 }
 
 
