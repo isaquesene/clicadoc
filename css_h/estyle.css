@@ -991,7 +991,7 @@ header.sticky{
 
 /*responsividade*/
 
-@media (max-width: 1270px){
+@media (max-width: 1250px){
      header{
         width: 100%;
         top: 0;
