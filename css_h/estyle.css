@@ -154,7 +154,7 @@ a{
 /*-----SECTION INICIO----*/
 
 section{
-    padding: 100px 10%;
+    padding: 100px 9%;
     background-color:  #F4FFFF;
 }
 
@@ -1000,7 +1000,7 @@ header.sticky{
         transition: .3s;
     }
     header.sticky{
-        padding: 10px 3%;
+        padding: 10px 0%;
         transition: .3s;
     }
     section{
