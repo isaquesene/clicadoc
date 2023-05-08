@@ -47,7 +47,7 @@ header{
     align-items: center;
     justify-content: space-between;
     background: rgb(244,255,255, 0.8);
-    padding: 30px 9%;
+    padding: 30px 10%;
     transition: .3s;
 }
 
@@ -154,7 +154,7 @@ a{
 /*-----SECTION INICIO----*/
 
 section{
-    padding: 100px 9%;
+    padding: 100px 10%;
     background-color:  #F4FFFF;
 }
 
