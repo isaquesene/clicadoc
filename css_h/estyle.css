@@ -1000,7 +1000,7 @@ header.sticky{
         transition: .3s;
     }
     section{
-        padding: 70px 3%;
+        padding: 70px 2%;
         transition: .3s;
     }
     .navlist li a{
@@ -1009,7 +1009,7 @@ header.sticky{
         font-size: 0.9rem;
     }
     .top-btn{
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     .contact{
         width: 100%;
